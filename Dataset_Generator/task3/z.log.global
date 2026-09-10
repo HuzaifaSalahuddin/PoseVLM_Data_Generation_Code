@@ -1,0 +1,23 @@
+** compiled at:     Dec 12 2024 10:06:24
+** execution start: 2024-12-23 15:18:48:543512
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_file:1042(3) entering path '../../src/config/task3' from '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:getIs:1071(3) opening input file 'DL_task3_conf.g'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_file:1042(3) entering path '../../src/config/task3' from '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:getIs:1071(3) opening input file 'DL_task3_conf.g'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_file:1042(3) entering path '../../src/config/task3' from '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:getIs:1071(3) opening input file 'DL_task3_conf.g'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:cd_file:1042(3) entering path '../../src/config/task3' from '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+util.cpp:getIs:1071(3) opening input file 'DL_task3_conf.g'
+util.cpp:cd_start:1034(3) entering path '/home/bora/git/CS559-Deep-Learning-Project/Dataset_Generator/task3'
+** execution stop: 2024-12-23 15:18:53:617627
+** real time: 5.07423sec
+** CPU time: 4.38044
+
+** set+queried params:
