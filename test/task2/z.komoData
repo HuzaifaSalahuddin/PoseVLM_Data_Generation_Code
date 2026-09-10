@@ -1,0 +1,5 @@
+F_qItself/acc[#16] F_qItself[#16] F_qQuaternionNorms[#73] F_AccumulatedCollisions[#73] F_Pose/vel[sphere] F_LinAngVel/acc[sphere] F_PairCollision[l_l_gripper,sphere] F_PoseDiff[sphere,waypoint0] F_PositionDiff[l_l_gripper,candidate_point_244] 
+ 5.78159e-08, 5.78159e-12, 0, 0, 0, 0, 4.7088e-07, 0, 4.72804e-06,
+ 5.93933e-08, 5.83112e-12, 4.06171e-07, 5.66505e-05, 0.000225389, 0, 2.96137e-06, 0, 4.8683e-06,
+ 1.02803e-09, 5.89672e-12, 4.06171e-07, 0.00388073, 0, 0.00108246, 2.96137e-06, 0, 4.8683e-06,
+ 6.22355e-10, 5.8288e-12, 4.06171e-07, 2.17784e-07, 0, 0, 2.96137e-06, 3.3359e-05, 4.8683e-06 
